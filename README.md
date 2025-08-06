@@ -44,42 +44,9 @@ Built using **Node.js**, **Express**, **MongoDB**, **JWT Authentication** (backe
 
 ---
 
-## 📂 Project Structure
 
-work-assignment-system/
-│
-├── backend/
-│ ├── config/
-│ │ └── db.js
-│ ├── middleware/
-│ │ ├── authMiddleware.js
-│ │ └── adminMiddleware.js
-│ ├── models/
-│ │ ├── User.js
-│ │ └── Task.js
-│ ├── routes/
-│ │ ├── authRoutes.js
-│ │ ├── userRoutes.js
-│ │ └── taskRoutes.js
-│ ├── .env
-│ ├── server.js
-│ └── package.json
-│
-├── frontend/
-│ ├── src/
-│ │ ├── pages/
-│ │ │ ├── Login.js
-│ │ │ ├── Register.js
-│ │ │ ├── AdminDashboard.js
-│ │ │ └── UserDashboard.js
-│ │ ├── components/
-│ │ │ └── ProtectedRoute.js
-│ │ ├── App.js
-│ │ ├── index.js
-│ │ └── App.css
-│ ├── package.json
-│
-└── README.md
+
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
